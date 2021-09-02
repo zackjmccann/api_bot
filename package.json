@@ -1,0 +1,19 @@
+{
+  "name": "api_bot",
+  "version": "1.0.0",
+  "description": "an application to build a chat bot via the bot api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zackjmccann/api_bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zackjmccann/api_bot/issues"
+  },
+  "homepage": "https://github.com/zackjmccann/api_bot#readme"
+}
